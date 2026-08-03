@@ -1,2 +1,6 @@
-# Programming-Advanced-For-QA-March-2026
-Repository for the "Programming Advanced For QA" course, which is part of the complete Automation QA track.
+Programming for QA
+
+This repository contains homework assignments, exercises, and projects from the Programming Advanced For QA course, a core module within the comprehensive Automation QA training program.
+
+Programming Language: [C#]
+Tools: [Visual Studio]
