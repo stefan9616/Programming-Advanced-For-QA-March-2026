@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="02.EnterNumbers/02.EnterNumbers.csproj" />
+  <Project Path="03.SumOfIntegers/03.SumOfIntegers.csproj" />
+  <Project Path="05-Exception-Handlig-Lab/01.SquareRoot.csproj" />
+</Solution>
